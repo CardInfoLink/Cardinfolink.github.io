@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "欢迎讯联小伙伴分享文章"
+date:   2016-11-9 11:14:54
+categories: cardinfolink
+tags: cardinfolink
+excerpt: 生活不止眼前的苟且，还有以后的苟且。
+author: null
+---
+
+~希望小伙伴们踊跃分享~

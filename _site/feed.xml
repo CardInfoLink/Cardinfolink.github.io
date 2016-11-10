@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cardinfolink</title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 10 Nov 2016 18:02:36 +0800</pubDate>
+    <lastBuildDate>Thu, 10 Nov 2016 18:02:36 +0800</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>使用 github pages + jekyll 搭建博客</title>
+        <description>使用 jekyll 创建文章，记录在讯联的点点滴滴，无论技术分享还是生活随笔。</description>
+        <pubDate>Wed, 09 Nov 2016 21:14:54 +0800</pubDate>
+        <link>http://localhost:4000/2016/11/09/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/11/09/welcome-to-jekyll/</guid>
+        
+        <category>jekyll</category>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>欢迎讯联小伙伴分享文章</title>
+        <description>生活不止眼前的苟且，还有以后的苟且。</description>
+        <pubDate>Wed, 09 Nov 2016 19:14:54 +0800</pubDate>
+        <link>http://localhost:4000/2016/11/09/next-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/11/09/next-blog/</guid>
+        
+        <category>cardinfolink</category>
+        
+        
+        <category>cardinfolink</category>
+        
+      </item>
+    
+  </channel>
+</rss>
