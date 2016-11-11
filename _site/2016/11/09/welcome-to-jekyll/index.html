@@ -6,8 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>使用 github pages + jekyll 搭建博客</title>
-    <meta name="description" content="使用 jekyll 创建文章，记录在讯联的点点滴滴，无论技术分享还是生活随笔。">
+    <title>使用 Github Pages + jekyll 搭建博客</title>
+    <meta name="description" content="本文会教你如何使用 jekyll 和 github pages 搭建属于自己的博客。">
 
     <link rel="shortcut icon" href="/favicon.ico?" type="image/x-icon">
     <link rel="icon" href="/favicon.ico?" type="image/x-icon">
@@ -103,7 +103,7 @@
 
         <div class="page clearfix" post>
     <div class="left">
-        <h1>使用 github pages + jekyll 搭建博客</h1>
+        <h1>使用 Github Pages + jekyll 搭建博客</h1>
         <div class="label">
 
             <div class="label-card">
@@ -146,7 +146,10 @@
   
     
         <!--a href="/tag/#jekyll" title="Tag: jekyll" rel="tag">jekyll</a-->
-        <a href="/tag/#jekyll" title="Tag: jekyll" rel="tag">jekyll</a>
+        <a href="/tag/#jekyll" title="Tag: jekyll" rel="tag">jekyll</a>&nbsp;
+    
+        <!--a href="/tag/#%E5%8D%9A%E5%AE%A2" title="Tag: 博客" rel="tag">博客</a-->
+        <a href="/tag/#博客" title="Tag: 博客" rel="tag">博客</a>
     
   
 
@@ -157,47 +160,115 @@
         </div>
         <hr>
         <article itemscope itemtype="http://schema.org/BlogPosting">
-        <p>本文会教你如何使用 jekyll 发布自己的文章到这里。【未完成】</p>
+        <h3 id="github-pages">一、什么是 Github Pages</h3>
 
-<h3 id="section">这是什么</h3>
+<p><img src="https://pages.github.com/images/logo.svg" style="background-color:black;" /></p>
 
-<p>这是一篇使用 jekyll 创建文章的指南。<code class="highlighter-rouge">cardinfolink.github.io</code> 是基于 <a href="https://pages.github.com/">github-pages</a> 的搭建的公司技术分享的博客类网站。</p>
+<p>Github Pages 官网的标语是：</p>
 
-<h3 id="section-1">如何使用</h3>
+<blockquote>
+  <p>Websites for you and your projects.</p>
+</blockquote>
+
+<p>更多详情可以查看 Github Pages 官网：<a href="https://pages.github.com/">https://pages.github.com/</a></p>
+
+<p>当你在 Github 上辛辛苦苦写了一个很牛逼的项目，你却无法告诉全世界，这个时候该怎么办，做个项目官方网站？？你需要编码、数据库、文件服务器、打包、部署、CDN 等等，一想到这些，还是算了吧~ ~ UP! UP! UP! 别担心，有 Github Pages，她可以帮助你搭建自己的个人网站，也可以搭建你的项目官网，她不需要服务器，不需要数据库，甚至有些时候都不需要懂 html 。</p>
+
+<p>好了，现在开始吧~</p>
+
+<ul>
+  <li>
+    <p>github 账号</p>
+
+    <p>首先你需要注册一个属于自己的 github 账号，前往 <a href="https://github.com/">github</a> 注册账号。</p>
+  </li>
+  <li>
+    <p>创建个人网站(https://<code class="highlighter-rouge">your-account</code>.github.io/)：</p>
+
+    <p>当你注册好一个 github 账号后，你会有一个用户名，如 <code class="highlighter-rouge">cardinfolink</code> ，然后，创建一个名为 <code class="highlighter-rouge">cardinfolink</code>.github.io 的仓库，这个仓库便是保存你个人网站的地方，接下来你只需要将自己编写好的网站提交到仓库，然后访问 <a href="https://cardinfolink.github.io/">https://cardinfolink.github.io/</a> 便可以了。什么！不会写页面，没关系，后文会讲一个工具 jekyll 。</p>
+  </li>
+  <li>
+    <p>创建项目网站(https://<code class="highlighter-rouge">your-account</code>.github.io/<code class="highlighter-rouge">project-name</code>/)：</p>
+
+    <p>有时候，你需要将自己的某个项目，如 <code class="highlighter-rouge">Smart-POS</code> ，也要制作一个网站，当然也是可以的。你只需要将这个项目创建一个名为 <code class="highlighter-rouge">gh-pages</code> 的分支，然后将你的页面提交到这个分支，然后访问 <a href="https://cardinfolink.github.io/Smart-POS/">https://cardinfolink.github.io/Smart-POS/</a> 便可以了。</p>
+  </li>
+</ul>
+
+<h3 id="jekyll">二、什么是 jekyll</h3>
+
+<p><img src="http://jekyllrb.com/img/logo-2x.png" alt="" /></p>
+
+<p>jekyll 官网的标语是：</p>
+
+<blockquote>
+  <p>Transform your plain text into static websites and blogs.</p>
+</blockquote>
+
+<p>很显然，就是将你的文本转换成静态网站或者博客的一个工具。</p>
+
+<p>更多详情可以查看 jekyll 官网：<a href="http://jekyllrb.com">https://jekyllrb.com/</a></p>
+
+<h3 id="section">如何使用</h3>
 
 <ul>
   <li>安装 jekyll</li>
 </ul>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>gem install jekyll
+<div class="highlighter-rouge"><pre class="highlight"><code>	$ gem install jekyll bundler
 </code></pre>
 </div>
 
-<p>详情可以查看 jekyll 官网：<a href="http://jekyllrb.com">https://jekyllrb.com/</a></p>
-
 <ul>
-  <li>
-    <p>fork 仓库</p>
-  </li>
-  <li>
-    <p>编辑文章</p>
-  </li>
+  <li>新建项目</li>
 </ul>
 
-<h3 id="section-2">注意事项</h3>
+<div class="highlighter-rouge"><pre class="highlight"><code>	$ jekyll new cardinfolink-site
+	$ cd cardinfolink-site
+</code></pre>
+</div>
 
-<h3 id="section-3">约定</h3>
+<p>一个 jekyll 项目的目录结构</p>
 
-<h3 id="todo-list">todo-list</h3>
+<p><img src="../../../../image/33DFDF04-693F-4BB0-A857-EAD28195BF27.png" alt="" /></p>
 
 <ul>
-  <li>
-    <p>评论功能</p>
-  </li>
-  <li>
-    <p>百度分析、谷歌分析</p>
-  </li>
+  <li>编写文章</li>
 </ul>
+
+<p>jekyll 默认使用 markdown 写文章，不懂如何使用 markdown 的小伙伴请移步 <a href="">markdown 的基本语法</a>。找到 <code class="highlighter-rouge">_posts</code> 文件夹，在里面新建一个文件，文件名随便，后缀为 <code class="highlighter-rouge">.md</code> 或者 <code class="highlighter-rouge">.markdown</code> 。这里我们新建一个 <code class="highlighter-rouge">2016-11-11-new-blog.markdown</code> 的文件，编写内容如下：</p>
+
+<p><img src="../../../../image/642BAA6D-3099-45BC-8192-A3C951CC579F.png" alt="" /></p>
+
+<p>字段解释：</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>	---
+	layout: post 				//使用的模板
+	title:  "我的第一篇博客!"			//标题
+	date:   2016-11-11 10:09:09 +0800	//发布时间
+	categories: blog 			//文章分类
+	---
+	我的第一篇博客				//正文
+</code></pre>
+</div>
+
+<ul>
+  <li>运行</li>
+</ul>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>	$ bundle exec jekyll serve
+	// =&gt; Now browse to http://localhost:4000
+</code></pre>
+</div>
+
+<p>运行成功之后访问 <a href="http://localhost:4000">http://localhost:4000</a> 你会看到：</p>
+
+<p><img src="../../../../image/47D9B6E7-6EDB-45A1-921B-308E09872686.png" alt="" /></p>
+
+<h3 id="section-1">三、主题</h3>
+
+<p>想要炫酷的网站效果，却又不想编码，请直接去网上找主题吧，各种各样的等着你。</p>
+
+<p>官网主题：<a href="http://jekyllthemes.org/">jekyll-themes</a></p>
 
 
         </article>
@@ -210,6 +281,8 @@
                 
                     
                 
+                    
+                
             
         
         
@@ -217,11 +290,11 @@
         <div class="post-recent">
     <div class="pre">
         
-        <p><strong>上一篇</strong> <a href="/2016/11/09/next-blog/">欢迎讯联小伙伴分享文章</a></p>
-        
     </div>
     <div class="nex">
 
+        
+        <p><strong>下一篇</strong> <a href="/2016/11/09/next-blog/">如何在这里发布自己的文章</a></p>
         
     </div>
 </div>

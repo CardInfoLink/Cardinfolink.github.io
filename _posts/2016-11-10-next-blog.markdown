@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "欢迎讯联小伙伴分享文章"
-date:   2016-11-9 11:14:54
+title:  "如何在这里发布自己的文章"
+date:   2016-11-9 15:14:54
 categories: cardinfolink
 tags: cardinfolink
-excerpt: 生活不止眼前的苟且，还有以后的苟且。
+excerpt: 你可以在这里记录在讯联的点点滴滴，无论技术分享还是生活随笔。
 author: null
 ---
 
