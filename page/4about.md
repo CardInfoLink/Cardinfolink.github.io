@@ -25,6 +25,6 @@ icon: heart
 
 传真：86 21 60276036
 
-### Comments
+### 评论
 
 {% include comments.html %}
