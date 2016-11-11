@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "使用 Github Pages + jekyll 搭建博客"
-date:   2016-11-9 13:14:54
+date:   2016-11-10 13:14:54
 categories: jekyll
 tags: jekyll 教程
 excerpt: 本文会教你如何使用 jekyll 和 github pages 搭建属于自己的博客。
@@ -67,7 +67,7 @@ jekyll 官网的标语是：
 
 - 编写文章
 
-jekyll 默认使用 markdown 写文章，不懂如何使用 markdown 的小伙伴请移步 [markdown 的基本语法]()。找到 `_posts` 文件夹，在里面新建一个文件，文件名随便，后缀为 `.md` 或者 `.markdown` 。这里我们新建一个 `2016-11-11-new-blog.markdown` 的文件，编写内容如下：
+jekyll 默认使用 markdown 写文章，不懂如何使用 markdown 的小伙伴请移步 [markdown 的基本语法](/2016/11/10/markdown-grammar/)。找到 `_posts` 文件夹，在里面新建一个文件，文件名随便，后缀为 `.md` 或者 `.markdown` 。这里我们新建一个 `2016-11-11-new-blog.markdown` 的文件，编写内容如下：
 
 ![](../../../../image/642BAA6D-3099-45BC-8192-A3C951CC579F.png)
 

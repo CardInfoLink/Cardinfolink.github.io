@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "如何在这里发布自己的文章"
-date:   2016-11-9 15:14:54
-categories: cardinfolink
+date:   2016-11-10 15:14:54
+categories: note
 tags: cardinfolink 教程
 excerpt: 你可以在这里记录在讯联的点点滴滴，无论技术分享还是生活随笔。
 author: ChenFeng
@@ -54,7 +54,7 @@ author: ChenFeng
 	---
 ```
 
-文章默认使用 markdown 格式编写，不熟悉 markdown 的同学请移步 [markdown 的基本语法]()。
+文章默认使用 markdown 格式编写，不熟悉 markdown 的同学请移步 [markdown 的基本语法](/2016/11/10/markdown-grammar/)。
 
 ### 运行调试
 
@@ -76,7 +76,7 @@ author: ChenFeng
 	$ git push origin master
 ```
 
-还没搭好 jekyll 环境的同学请移步 [使用 Github Pages + jekyll 搭建博客](https://cardinfolink.github.io/2016/11/09/welcome-to-jekyll/)
+还没搭好 jekyll 环境的同学请移步 [使用 Github Pages + jekyll 搭建博客](/2016/11/10/welcome-to-jekyll/)
 
 ### 发送 PR
 
