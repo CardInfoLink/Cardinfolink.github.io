@@ -24,6 +24,6 @@ icon: bookmark
 
 #### Go
 
-### Comments
+### 评论
 
 {% include comments.html %}
