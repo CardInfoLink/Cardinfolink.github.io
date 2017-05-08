@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "智能终端激活、结算环节问题讨论方案整理"
-date:   2017-05-08
+date:   2017-05-08 00:00:00
 categories: note
 tags: issues
 excerpt: 现有激活流程复杂，结算会出现不准确，故通过会议整理了一些优化点。
