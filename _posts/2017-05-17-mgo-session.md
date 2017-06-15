@@ -3,7 +3,7 @@ layout: post
 title:  "mgo 的 session 与连接池"
 date:   2017-05-17
 categories: note
-tags: issues
+tags: mgo
 excerpt: mgo是由Golang编写的开源mongodb驱动。由于mongodb官方并没有开发Golang驱动，因此...
 author: JodeZer
 ---
