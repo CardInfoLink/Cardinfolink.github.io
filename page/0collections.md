@@ -10,6 +10,14 @@ icon: bookmark
 
 科技早报，每天精选 5 条
 
+#### 第 20170621 期
+
+* [1. Go 1.9 的新特性](http://colobu.com/2017/06/20/what-s-new-in-Go-1-9/?utm_source=tuicool&utm_medium=referral)
+* [2. etcd 3.2带来规模化监视程序与分布式锁等全新特性](http://dockone.io/m/article/2444)
+* [3. 一幅漫画告诉你：除了WiFi，蓝牙，最近火爆的NB-IoT能干嘛](http://mp.weixin.qq.com/s/l8q8FpcC9bMWH55mVZgOmg)
+* [4. 精准营销——机器学习实例应用](http://www.woshipm.com/operate/674511.html?utm_source=tuicool&utm_medium=referral)
+* [5. 微信红包后台系统可用性设计实践](http://mp.weixin.qq.com/s/dKFbLMePvVoDwvvfQz-NPg)
+
 #### 第 20170620 期
 
 * [1. Connect: behind the front-end experience](https://stripe.com/blog/connect-front-end-experience)
@@ -26,7 +34,6 @@ icon: bookmark
 * [4. 微信小程序又添餐厅功能，你还在用美团吗](http://m.linkshop.com/news/show.aspx?id=380251&from=web)
 * [5. 意料之外的年轻人，00后的消费观没有想象中“反骨”](http://mp.weixin.qq.com/s/2-q3kTn5ysJQZS9pr55BGA)
 
-
 #### 第 20170618 期
 
 * [1. 深入聊聊微服务架构的身份认证问题](http://mp.weixin.qq.com/s/f18a3UNrfnXm654Lt2cU1A)
@@ -35,5 +42,8 @@ icon: bookmark
 * [4. 支付场景延伸之餐饮智能化的七大模块](http://mp.weixin.qq.com/s/GUnqmSVT7Zy7MHXJ34sLcQ)
 * [5. 亚马逊斥资137亿美元收购Whole Foods，布局线下食品链](http://mp.weixin.qq.com/s/wF9l95aW87hn15MkrhKGcw)
 
+### 分享
+{% include share.html %}
 
+### 评论
 {% include comments.html %}
