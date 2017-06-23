@@ -10,6 +10,22 @@ icon: bookmark
 
 科技早报，每天精选 5 条
 
+#### 第 20170623 期
+
+[1. 当前如何选择App热更新服务](http://www.infoq.com/cn/news/2017/06/how-to-choose-app-hotpatch?utm_source=tuicool&utm_medium=referral)
+[2. 被误解的Python](http://mp.weixin.qq.com/s/Je8nnWIaB2FOL9KxooVcFg)
+[3. 除了Hadoop，其他6个你必须知道的热门大数据技术](http://mp.weixin.qq.com/s/Z0ZNXpv2Wvak2givyo0eDg)
+[4. 刘能、赵四们的区块链战争](http://mp.weixin.qq.com/s/MckrFGOclM_2sm_BDFgFRw)
+[5. 企业自媒体如何有效吸引更多的受众关注](http://mp.weixin.qq.com/s/CYYLQX45ZZY__LPj-szESw)
+
+#### 第 20170622 期
+
+[1. 新增小程序打开小程序的能力](http://mp.weixin.qq.com/s/RdWsR81foj8QwyjyNui9EQ)
+[2. 今日头条推荐系统架构演进之路](http://ppt.geekbang.org/slide/download/816/58f8424ccbf10.pdf/17)
+[3. 数据分析之用户画像](http://mp.weixin.qq.com/s/2zJcz_4BCpP7kQyp6VeCrw)
+[4. 如何设计一个小而美的秒杀系统](http://www.tuicool.com/articles/NbYrIvn)
+[5. JavaScript Error Tracking and Front End Performance Monitoring](http://hn.premii.com/#/article/14604698)
+
 #### 第 20170621 期
 
 * [1. Go 1.9 的新特性](http://colobu.com/2017/06/20/what-s-new-in-Go-1-9/?utm_source=tuicool&utm_medium=referral)
