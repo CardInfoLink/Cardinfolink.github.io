@@ -8,7 +8,56 @@ icon: bookmark
 * content
 {:toc}
 
-科技早报，每天精选 5 条
+科技早报，每天精选 5 条，由「讯联数据」CTO 整理。
+
+#### 第 20170629 期
+
+* [1. 智能设备上的二维码解码优化](https://cardinfolink.github.io/2017/06/28/%E6%99%BA%E8%83%BD%E8%AE%BE%E5%A4%87%E4%B8%8A%E7%9A%84%E4%BA%8C%E7%BB%B4%E7%A0%81%E8%A7%A3%E7%A0%81%E4%BC%98%E5%8C%96/?from=groupmessage&isappinstalled=0)
+* [2. 提高应用程序可用性的五个要点](http://mp.weixin.qq.com/s/iZy3dSV5KpYFCUXkLj1pyg)
+* [3. 区块链中的认证机制：数字签名](http://mp.weixin.qq.com/s/d0e68mAvVx883DabJGpQfA)
+* [4. 央行印发《中国金融业信息技术“十三五”发展规划》 将重点推动金融科技研究应用](http://mp.weixin.qq.com/s/b5wvmkJzjJsGzpkibM-6zA)
+* [5. 借势营销5大招，餐厅宣传如何四两拨千斤？](http://mp.weixin.qq.com/s/JRtmC5pamoo-6LIhT15ecQ)
+
+
+#### 第 20170628 期
+
+* [1. 像牛人一样改进你的Go代码](http://www.tuicool.com/articles/363Y3ez)
+* [2. 做好灾备平台，打造自动化运维管理的最后堡垒](http://mp.weixin.qq.com/s/0JRcoyKAuY2Hn5cCECnP6A)
+* [3. 机器学习算法常用模型—逻辑回归](http://mp.weixin.qq.com/s/0oHnZXcsdcONe88xxwweSg)
+* [4. 云计算 vs. 雾计算：物联网的发展是否会「云开雾散」？](http://www.tuicool.com/articles/yUF7juv)
+* [5. 连麦当劳都不安分守己开店了，非得靠“颜值”博你欢心](http://mp.weixin.qq.com/s/ubTUJWB6jRB-f-IBDjGd1Q)
+
+
+#### 第 20170627 期
+
+* [1. 分布式ID生成器](https://mp.weixin.qq.com/s/AHRCYOjnXAgcy2j6vziukQ?utm_source=tuicool&utm_medium=referral)
+* [2. 服务端指南 | HTTPS 项目实战指南](http://www.tuicool.com/articles/67veErI)
+* [3. 用户画像之用户性别识别](http://mp.weixin.qq.com/s/mPHWOXLVrKUkvFJKYEid4w)
+* [4. The Best Machine Learning, NLP, and Python Tutorials I’ve Found](http://www.tuicool.com/articles/zq6fiiM)
+* [5. 从大悦城的黄盒子想到的｜天上飘的和地下跑的须要融合创新](http://mp.weixin.qq.com/s/8w_O65gBpKewKklCDusgtQ)
+
+
+#### 第 20170626 期
+
+* 今早有点事情，早报暂停一天[憨笑]
+
+#### 第 20170625 期
+
+* [1. Redis高级功能 - 慢查询日志](https://segmentfault.com/a/1190000009915519?utm_source=tuicool&utm_medium=referral)
+* [2. Spark Streaming vs. Kafka Stream](http://www.tuicool.com/articles/z63Qjq)
+* [3. Building a Real-Time Streaming ETL Pipeline in 20 Minutes](http://www.tuicool.com/articles/EBZVVnr)
+* [4. CTA实例分析，帮助卖家提高转化率](https://baijiahao.baidu.com/po/feed/share?context=%7B%22sourceFrom%22%3A%22bjh%22%2C%22nid%22%3A%22news_3092567186184839089%22%7D)
+* [5. 这 4 页 PPT ，让你明白什么是互联网“内容营销”](http://www.woshipm.com/operate/698194.html?utm_source=tuicool&utm_medium=referral)
+
+
+#### 第 20170624 期
+
+* [1. H5互动的正确打开方式](http://mp.weixin.qq.com/s/XkCfvLuzN3Bax5HU5CFYJA)
+* [2. 也谈goroutine调度器](http://www.tuicool.com/articles/j6FVNvR)
+* [3. OWASP安全编码规范，必须读](https://www.owasp.org/images/7/73/OWASP_SCP_Quick_Reference_Guide_%28Chinese%29.pdf)
+* [4. 一文教你看懂风控的所有流程，其中提了一个“test&learn”还有数据光滑概念不错](http://www.zczj.com/news/2017-06-23/content_12174.html?utm_source=tuicool&utm_medium=referral)
+* [5. 要你“小一点的同时大一点”，很过分吗?](https://zhuanlan.zhihu.com/p/27289164?utm_source=tuicool&utm_medium=referral)
+
 
 #### 第 20170623 期
 
