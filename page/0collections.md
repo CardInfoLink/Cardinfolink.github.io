@@ -31,7 +31,7 @@ icon: bookmark
 #### 第 20170627 期
 
 * [1. 分布式ID生成器](https://mp.weixin.qq.com/s/AHRCYOjnXAgcy2j6vziukQ?utm_source=tuicool&utm_medium=referral)
-* [2. 服务端指南 | HTTPS 项目实战指南](http://www.tuicool.com/articles/67veErI)
+* [2. 服务端指南，HTTPS 项目实战指南](http://www.tuicool.com/articles/67veErI)
 * [3. 用户画像之用户性别识别](http://mp.weixin.qq.com/s/mPHWOXLVrKUkvFJKYEid4w)
 * [4. The Best Machine Learning, NLP, and Python Tutorials I’ve Found](http://www.tuicool.com/articles/zq6fiiM)
 * [5. 从大悦城的黄盒子想到的｜天上飘的和地下跑的须要融合创新](http://mp.weixin.qq.com/s/8w_O65gBpKewKklCDusgtQ)
