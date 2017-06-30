@@ -10,6 +10,15 @@ icon: bookmark
 
 科技早报，每天精选 5 条，由「讯联数据」CTO 整理。
 
+#### 第 20170630 期
+
+* [1. 你方唱罢我登场，支付宝、微信支付无现金行动PK](http://mp.weixin.qq.com/s/d1QgRR8rUDRu3T22x2t-Ew)
+* [2. 从流量思维到运营思维，从分众时代到精众时代](https://baijiahao.baidu.com/s?id=1571537736824735)
+* [3. 了解NB-IoT看这些应该就够了](http://mp.weixin.qq.com/s/nlvMyUSKmtdOL9Yc4GvFqg)
+* [4. 美团点评数据库高可用架构的演进与设想](http://www.tuicool.com/articles/VVfmman)
+* [5. 一个资深架构师眼中的人工智能](http://mp.weixin.qq.com/s/nBJRWuoEAXulxh4aChc-2A)
+
+
 #### 第 20170629 期
 
 * [1. 智能设备上的二维码解码优化](https://cardinfolink.github.io/2017/06/28/%E6%99%BA%E8%83%BD%E8%AE%BE%E5%A4%87%E4%B8%8A%E7%9A%84%E4%BA%8C%E7%BB%B4%E7%A0%81%E8%A7%A3%E7%A0%81%E4%BC%98%E5%8C%96/?from=groupmessage&isappinstalled=0)
