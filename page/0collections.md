@@ -10,6 +10,35 @@ icon: bookmark
 
 科技早报，每天精选 5 条，由「讯联数据」CTO 整理。
 
+#### 第 20170704 期
+
+* [1. MySQL异常锁冲突一例](http://www.tuicool.com/articles/7jQjIjJ)
+* [2. Laravel + go-micro + grpc 实践基于 Zipkin 的分布式链路追踪系统](https://mp.weixin.qq.com/s/JkLMNabnYbod-b4syMB3Hw?utm_source=tuicool&utm_medium=referral)
+* [3. 微服务改造中解决跨库问题的思路](https://mp.weixin.qq.com/s/9fBx2bSWXSbHNb-dTLnCXw)
+* [4. 交互微动效设计指南](https://isux.tencent.com/guidelines-for-functional-animation.html?utm_source=tuicool&utm_medium=referral)
+* [5. 开展全网整合营销推广的五个步骤](http://www.woshipm.com/operate/707371.html?utm_source=tuicool&utm_medium=referral)
+
+#### 第 20170703 期
+
+* 早报暂停一天
+
+#### 第 20170702 期
+
+* [1. 聊聊魅族的个性化推荐体系和大数据平台架构](http://mp.weixin.qq.com/s/Vge_1-em5knXGa7ETBFxtA)
+* [2. 亚马逊“一键下单”的背后——个性化推荐系统的发展历程](http://www.tuicool.com/articles/FRN7zyi)
+* [3. 梳理企业公众号要做的三点分析](http://www.tuicool.com/articles/VRruYzF)
+* [4. 盒马集市与百联RISO的对比分析](http://m.linkshop.com/news/show.aspx?id=381380)
+* [5. B2B会对连锁便利店企业带来那些影响](http://m.linkshop.com/blog/show.aspx?id=342026)
+
+#### 第 20170701 期
+
+* [1. 深入了解 gRPC：协议](http://mp.weixin.qq.com/s/wk1GpvjP821_FPQq3e6Ymw)
+* [2. 微信后台基于时间序的海量数据冷热分级架构设计实践](http://mp.weixin.qq.com/s/XlZF0GDt7dnHyYuS1an6tg)
+* [3. 亚马逊的成功其实很简单，但你就是做不到！](https://www.linkedin.com/pulse/%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%9A%84%E6%88%90%E5%8A%9F%E5%85%B6%E5%AE%9E%E5%BE%88%E7%AE%80%E5%8D%95%E4%BD%86%E4%BD%A0%E5%B0%B1%E6%98%AF%E5%81%9A%E4%B8%8D%E5%88%B0-%E5%BC%A0%E6%80%9D%E5%AE%8F-peter%E5%93%A5?trk=article_share_wechat&from=timeline&isappinstalled=0)
+* [4. 设计思维书单推荐！五位日本设计大师的思考术](http://www.uisdc.com/japan-design-thinking-book?utm_source=tuicool&utm_medium=referral)
+* [5. 2017年国民餐饮消费大数据报告（101张大图）](http://mp.weixin.qq.com/s/9so0sx18dkmmNWh5wspzaA)
+
+
 #### 第 20170630 期
 
 * [1. 你方唱罢我登场，支付宝、微信支付无现金行动PK](http://mp.weixin.qq.com/s/d1QgRR8rUDRu3T22x2t-Ew)
