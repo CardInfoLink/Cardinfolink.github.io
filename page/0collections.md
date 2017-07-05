@@ -10,6 +10,15 @@ icon: bookmark
 
 科技早报，每天精选 5 条，由「讯联数据」CTO 整理。
 
+#### 第 20170705 期
+
+* [1. 微服务的治理之策](http://mp.weixin.qq.com/s/GVrmSsEa1VogcPOzbXF_QA)
+* [2. 当open-falcon遇上kubernetes](http://mp.weixin.qq.com/s/MKmrsZEPdNdh92HQg4jNEw)
+* [3. 深度学习 | 手把手教你实现信用卡欺诈侦测建模](http://mp.weixin.qq.com/s/-09daXLOyrHxnpLljYf_Fw)
+* [4. Apple Pay翻身机会？NFC会员功能明日将入华](http://mp.weixin.qq.com/s/N97uP5-o6PerQ32boxDhjQ)
+* [5. 沙县小吃，你变了！](http://mp.weixin.qq.com/s/XK7S4WW_sc4KeGDe3mZq7w)
+
+
 #### 第 20170704 期
 
 * [1. MySQL异常锁冲突一例](http://www.tuicool.com/articles/7jQjIjJ)
