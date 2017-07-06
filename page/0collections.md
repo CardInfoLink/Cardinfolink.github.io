@@ -10,6 +10,15 @@ icon: bookmark
 
 科技早报，每天精选 5 条，由「讯联数据」CTO 整理。
 
+#### 第 20170706 期
+
+* [1. 搜狗深度学习技术在广告推荐领域的应用](http://mp.weixin.qq.com/s/ak5MdUvEGvkTT2FTOrlOjw)
+* [2. 通过京东618谈电商平台的推荐系统：渗透每个环节，肩负建设平台生态](http://mp.weixin.qq.com/s/sksYljuOP7Z8WWpMtKGmuQ)
+* [3. 小程序「最强广告位」来袭！这次的入口厉害了](http://mp.weixin.qq.com/s/sqIeNiWVTJBgzBNcwDBw-g)
+* [4. SQL、NewSQL和NoSQL融合研究与实践](http://mp.weixin.qq.com/s/vyZZlhqnpbAe-xcJBJX4dw)
+* [5. 商场餐厅现关店潮，街边餐饮重逢生机？](http://mp.weixin.qq.com/s/3cdEWJTMFogOeFz-nI4EMQ)
+
+
 #### 第 20170705 期
 
 * [1. 微服务的治理之策](http://mp.weixin.qq.com/s/GVrmSsEa1VogcPOzbXF_QA)
