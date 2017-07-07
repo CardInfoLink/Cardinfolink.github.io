@@ -10,6 +10,15 @@ icon: bookmark
 
 科技早报，每天精选 5 条，由「讯联数据」CTO 整理。
 
+#### 第 20170707 期
+
+* [1. 弹出框设计总结](http://m.ui.cn/details/256166)
+* [2. 测试人员如何提高技术水平](http://www.infoq.com/cn/news/2017/07/testers-become-more-technical)
+* [3. sleep()到底睡多久，你知道吗？](http://www.tuicool.com/articles/UnyeArN)
+* [4. 今日头条Go语言构建日请求千亿级微服务的最佳实践](http://mp.weixin.qq.com/s/iEULJ6aGXezPjZTAq1-qCg)
+* [5. Linus Torvalds： Linux 之旅既有趣又幸运，我不敢奢望精通内核的全部](http://mp.weixin.qq.com/s/vFGGLvX_KCOa78Sn8UTFhw)
+
+
 #### 第 20170706 期
 
 * [1. 搜狗深度学习技术在广告推荐领域的应用](http://mp.weixin.qq.com/s/ak5MdUvEGvkTT2FTOrlOjw)
