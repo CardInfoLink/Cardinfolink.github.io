@@ -10,6 +10,42 @@ icon: bookmark
 
 科技早报，每天精选 5 条，由「讯联数据」CTO 整理。
 
+#### 第 20170711 期
+
+* [1. 2017年O2O市场报告：交易额预计近1万亿 口碑与美团点评拼抢到店业务](http://www.tuicool.com/articles/Rra2AbN)
+* [2. 分析了 70 家应用型 AI 公司后，我们总结了这些“致胜策略”](http://36kr.com/p/5083058.html)
+* [3. 机器学习产品宝典：这是谷歌内部总结的七大要点](http://mp.weixin.qq.com/s/HqBWb0D2RNhgGAUhMsTrwg)
+* [4. 获得更好用户体验的必杀器——A/B实验统计学秘籍](https://mp.weixin.qq.com/s/YZSN_6J-7ua-KbJC7BU-SQ)
+* [5. 公众号如何关联小程序？手把手教会你](http://mp.weixin.qq.com/s/U4l8rg3AqJHjtuLEfEKrgw)
+
+
+#### 第 20170710 期
+
+* [1. 2017全球创新报告：泛AI领域走强，基因/VR降温](http://mp.weixin.qq.com/s/krgVKHpM2alwA2k-GmixBg)
+* [2. 对上半年零售业三大现象级热点的浅思考](http://m.linkshop.com/news/show.aspx?id=381932)
+* [3. 从0到1，蘑菇街怎样打破应用运维自动化的技术藩篱？]( http://mp.weixin.qq.com/s/ey6mcaDNXMsn1cJwz4I1QQ)
+* [4. 从红包场景谈事务一致性](https://mp.weixin.qq.com/s/U_MNmGTS0dhJsMtcIwofWA)
+* [5. 基于 GitHub 的敏捷学习方法之道与术--“持续行动，持续反思，持续进步”](https://sspai.com/post/39872)
+
+
+#### 第 20170709 期
+
+* [1. 什么是架构，什么是架构师？](http://www.ijiandao.com/2b/baijia/62758.html)
+* [2. 详解个性化推荐五大最常用算法](http://mp.weixin.qq.com/s/Gka1QmUX_zg6KG89lPI6qw)
+* [3. 蚂蚁、蝙蝠和青蛙，细数智能时代那些有趣的“土味”算法](http://www.tuicool.com/articles/vA3mIfu)
+* [4. 顶级AI专家是不分学校和背景的，年轻人要有自己的判断](http://www.ijiandao.com/2b/baijia/62660.html)
+* [5. 营销必知：重度用户最不忠诚，中间用户的钱最好赚！](http://mp.weixin.qq.com/s/iRmlW19GZacQJi71EZ3_1w)
+
+
+#### 第 20170708 期
+
+* [1. 成功备战微服务的5个准备步骤](http://dockone.io/m/article/2490)
+* [2. Go语言中 select 和 switch 的比较](http://colobu.com/2017/07/07/select-vs-switch-in-golang/?utm_source=tuicool&utm_medium=referral)
+* [3. 9 种改善 AngularJS 性能的方法](http://www.tuicool.com/articles/MJf6FfY)
+* [4. 九个Console命令，让 JS 调试更简单](http://mp.weixin.qq.com/s/7oDJkLRFerMLK6lzZTGsRg)
+* [5. 如何系统规划大数据学习之路？](http://mp.weixin.qq.com/s/vpvJ15oDhVUFJsN8E4Oo8A)
+
+
 #### 第 20170707 期
 
 * [1. 弹出框设计总结](http://m.ui.cn/details/256166)
