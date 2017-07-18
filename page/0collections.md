@@ -10,6 +10,15 @@ icon: bookmark
 
 科技早报，每天精选 5 条，由「讯联数据」CTO 整理。
 
+#### 第 20170712 期
+
+* [1. 初学者如何选择合适的机器学习算法](http://mp.weixin.qq.com/s/a_gz7vvCKYVUBFTnJfMYXQ)
+* [2. 浅谈 MVC、MVP 和 MVVM 架构模式](http://www.tuicool.com/articles/uyyyIvm)
+* [3. 为什么别人总能准确洞察用户痛点，你却只会自嗨？](http://mp.weixin.qq.com/s/952oE-L-2xjlrGb5SvKOXA)
+* [4. 商业文案的三个套路](http://www.tuicool.com/articles/mei2ume)
+* [5. 一文实例解读：用户分层运营方法论](http://www.woshipm.com/operate/637089.html)
+
+
 #### 第 20170711 期
 
 * [1. 2017年O2O市场报告：交易额预计近1万亿 口碑与美团点评拼抢到店业务](http://www.tuicool.com/articles/Rra2AbN)
