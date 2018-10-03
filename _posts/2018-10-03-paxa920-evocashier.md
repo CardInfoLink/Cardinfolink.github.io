@@ -10,7 +10,9 @@ author: ChenFeng
 
 ## Preview
 
-
+<video src="../../../../image/device-2018-10-03-123400.mp4" controls="controls">
+your browser does not support the video tag
+</video>
 
 ## Code
 
