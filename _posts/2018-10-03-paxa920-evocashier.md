@@ -10,8 +10,12 @@ author: ChenFeng
 
 ## Preview
 
-<video src="../../../../image/device-2018-10-03-123400.mp4" controls="controls">
-your browser does not support the video tag
+<video controls
+       muted
+       src="../../../../image/device-2018-10-03-123400.mp4"
+       width="160"
+       height="320">
+    Sorry, your browser doesn't support embedded videos.
 </video>
 
 ## Code
