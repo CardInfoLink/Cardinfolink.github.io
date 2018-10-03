@@ -26,7 +26,7 @@ Some code should add to your projects.
 
 * Add a button named FPS in your appliaction
 
-![](../../../../image/fps.png)
+<img src="../../../../image/fps.png" alt="screenshot" height="320" width="160">
 
 * Implement the OnClickListener :
 
