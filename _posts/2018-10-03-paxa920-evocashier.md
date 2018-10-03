@@ -20,7 +20,7 @@ Some code should add to your projects.
 
 * Add a button named FPS in your appliaction
 
-![](../image/fps.png)
+![](../../../../image/fps.png)
 
 * Implement the OnClickListener :
 
