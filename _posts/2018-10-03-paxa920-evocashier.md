@@ -19,6 +19,9 @@ Some code should add to your projects.
 ### APP A(PAX A920 Cashier):
 
 * Add a button named FPS in your appliaction
+
+![](../image/fps.png)
+
 * Implement the OnClickListener :
 
 ```java
