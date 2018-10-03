@@ -13,8 +13,8 @@ author: ChenFeng
 <video controls
        muted
        src="../../../../image/device-2018-10-03-123400.mp4"
-       width="160"
-       height="320">
+       width="240"
+       height="480">
     Sorry, your browser doesn't support embedded videos.
 </video>
 
